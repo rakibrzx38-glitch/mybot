@@ -1,7 +1,7 @@
 {
   "name": "bd-bumba",
   "version": "1.0.0",
-  "description": "BD BUMBA JSON Engine",
+  "description": "BD BUMBA Dual Engine",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
